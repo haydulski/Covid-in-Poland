@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Covid-in-Poland/static/css/main.e502bcca.chunk.css",
-    "main.js": "/Covid-in-Poland/static/js/main.3af883c7.chunk.js",
-    "main.js.map": "/Covid-in-Poland/static/js/main.3af883c7.chunk.js.map",
+    "main.css": "/Covid-in-Poland/static/css/main.00cabd60.chunk.css",
+    "main.js": "/Covid-in-Poland/static/js/main.49940862.chunk.js",
+    "main.js.map": "/Covid-in-Poland/static/js/main.49940862.chunk.js.map",
     "runtime-main.js": "/Covid-in-Poland/static/js/runtime-main.beed408e.js",
     "runtime-main.js.map": "/Covid-in-Poland/static/js/runtime-main.beed408e.js.map",
-    "static/js/2.0b776eaf.chunk.js": "/Covid-in-Poland/static/js/2.0b776eaf.chunk.js",
-    "static/js/2.0b776eaf.chunk.js.map": "/Covid-in-Poland/static/js/2.0b776eaf.chunk.js.map",
+    "static/js/2.4018d52f.chunk.js": "/Covid-in-Poland/static/js/2.4018d52f.chunk.js",
+    "static/js/2.4018d52f.chunk.js.map": "/Covid-in-Poland/static/js/2.4018d52f.chunk.js.map",
     "index.html": "/Covid-in-Poland/index.html",
-    "precache-manifest.0007497bafba05afaa4259f70b7ac921.js": "/Covid-in-Poland/precache-manifest.0007497bafba05afaa4259f70b7ac921.js",
+    "precache-manifest.2c003aa609b7c7316a972cee8922378e.js": "/Covid-in-Poland/precache-manifest.2c003aa609b7c7316a972cee8922378e.js",
     "service-worker.js": "/Covid-in-Poland/service-worker.js",
-    "static/css/main.e502bcca.chunk.css.map": "/Covid-in-Poland/static/css/main.e502bcca.chunk.css.map",
-    "static/js/2.0b776eaf.chunk.js.LICENSE.txt": "/Covid-in-Poland/static/js/2.0b776eaf.chunk.js.LICENSE.txt",
+    "static/css/main.00cabd60.chunk.css.map": "/Covid-in-Poland/static/css/main.00cabd60.chunk.css.map",
+    "static/js/2.4018d52f.chunk.js.LICENSE.txt": "/Covid-in-Poland/static/js/2.4018d52f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Covid-in-Poland/static/media/img2.378f1d40.png"
   },
   "entrypoints": [
     "static/js/runtime-main.beed408e.js",
-    "static/js/2.0b776eaf.chunk.js",
-    "static/css/main.e502bcca.chunk.css",
-    "static/js/main.3af883c7.chunk.js"
+    "static/js/2.4018d52f.chunk.js",
+    "static/css/main.00cabd60.chunk.css",
+    "static/js/main.49940862.chunk.js"
   ]
 }
