@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Covid-in-Poland/precache-manifest.a7a0aad29919afd92f18baad02ce4454.js"
+  "/Covid-in-Poland/precache-manifest.c7191cc2e22ae3606083f0f2a18e7c66.js"
 );
 
 self.addEventListener('message', (event) => {

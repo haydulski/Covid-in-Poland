@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16f78e2c25825f12e556f86529bf0adb",
+    "revision": "09735f10e0b31ea42211bcce2c51bf71",
     "url": "/Covid-in-Poland/index.html"
   },
   {
-    "revision": "80372c35dc21cbb9a8eb",
-    "url": "/Covid-in-Poland/static/css/main.534c1d06.chunk.css"
+    "revision": "a7aea373bcdef52bc422",
+    "url": "/Covid-in-Poland/static/css/main.6cb123a7.chunk.css"
   },
   {
     "revision": "58cb2de882f8b319eb5d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Covid-in-Poland/static/js/2.5c6ef0ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80372c35dc21cbb9a8eb",
+    "revision": "a7aea373bcdef52bc422",
     "url": "/Covid-in-Poland/static/js/main.be634ecf.chunk.js"
   },
   {

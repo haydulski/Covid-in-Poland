@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Covid-in-Poland/static/css/main.534c1d06.chunk.css",
+    "main.css": "/Covid-in-Poland/static/css/main.6cb123a7.chunk.css",
     "main.js": "/Covid-in-Poland/static/js/main.be634ecf.chunk.js",
     "main.js.map": "/Covid-in-Poland/static/js/main.be634ecf.chunk.js.map",
     "runtime-main.js": "/Covid-in-Poland/static/js/runtime-main.beed408e.js",
@@ -8,16 +8,16 @@
     "static/js/2.5c6ef0ac.chunk.js": "/Covid-in-Poland/static/js/2.5c6ef0ac.chunk.js",
     "static/js/2.5c6ef0ac.chunk.js.map": "/Covid-in-Poland/static/js/2.5c6ef0ac.chunk.js.map",
     "index.html": "/Covid-in-Poland/index.html",
-    "precache-manifest.a7a0aad29919afd92f18baad02ce4454.js": "/Covid-in-Poland/precache-manifest.a7a0aad29919afd92f18baad02ce4454.js",
+    "precache-manifest.c7191cc2e22ae3606083f0f2a18e7c66.js": "/Covid-in-Poland/precache-manifest.c7191cc2e22ae3606083f0f2a18e7c66.js",
     "service-worker.js": "/Covid-in-Poland/service-worker.js",
-    "static/css/main.534c1d06.chunk.css.map": "/Covid-in-Poland/static/css/main.534c1d06.chunk.css.map",
+    "static/css/main.6cb123a7.chunk.css.map": "/Covid-in-Poland/static/css/main.6cb123a7.chunk.css.map",
     "static/js/2.5c6ef0ac.chunk.js.LICENSE.txt": "/Covid-in-Poland/static/js/2.5c6ef0ac.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Covid-in-Poland/static/media/img2.378f1d40.png"
   },
   "entrypoints": [
     "static/js/runtime-main.beed408e.js",
     "static/js/2.5c6ef0ac.chunk.js",
-    "static/css/main.534c1d06.chunk.css",
+    "static/css/main.6cb123a7.chunk.css",
     "static/js/main.be634ecf.chunk.js"
   ]
 }
